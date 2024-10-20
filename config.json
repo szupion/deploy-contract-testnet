@@ -1,0 +1,5 @@
+{
+    "min_transaction_delay": 10,
+    "max_transaction_delay": 15,
+    "retry_delay": 5
+}

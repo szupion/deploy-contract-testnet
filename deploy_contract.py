@@ -20,9 +20,9 @@ retry_delay = config['retry_delay']
 
 # Connect to RPC networks CELO, OP, BASE
 rpc_urls = {
-    "celo": "https://celo-alfajores.infura.io/v3/a2aa3e4f74ec47b2874442cbe90ae3f8",
-    "op": "https://optimism-sepolia.infura.io/v3/a2aa3e4f74ec47b2874442cbe90ae3f8",
-    "base": "https://base-sepolia.infura.io/v3/a2aa3e4f74ec47b2874442cbe90ae3f8"
+    "celo": "https://celo-alfajores.infura.io/",
+    "op": "https://optimism-sepolia.infura.io/",
+    "base": "https://base-sepolia.infura.io/"
 }
 
 # Load wallets
